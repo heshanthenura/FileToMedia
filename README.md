@@ -17,4 +17,4 @@
 > ###  Here im using image resolution as ```600x400``` so total amount of pixels are ```240000``` but the total number of bits that [text file](https://github.com/heshanthenura/FileToVideo/blob/main/text.txt) contains is less than ```240000``` so for remaining pixels I assigned the red color.
 
 
-### I'm Implementing this with more features soon
+### <h1 align="center">**_`I'm Implementing this with more features Soon`_**</h1>
